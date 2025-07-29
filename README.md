@@ -94,9 +94,3 @@ pseudo-oppgave/
 - Hvordan bruke pseudo-elementer til dekorativt innhold.
 - Hvordan bruke pseudo-selektorer for å målrette styling basert på struktur.
 - Hvordan gjøre siden mer dynamisk og brukervennlig uten JavaScript.
-
----
-
-## 📝 Forfatter
-
-Laget som del av en frontend-øvelse med fokus på CSS-pseudo-funksjoner.
