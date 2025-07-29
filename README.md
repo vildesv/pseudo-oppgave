@@ -1,4 +1,4 @@
-# Øvingsoppgave - Pseudo-elementer og Pseudo-selektorer
+# Øvingsoppgave - Pseudo-elementer/selektorer
 
 Dette prosjektet er laget for å øve på bruk av pseudo-elementer (`::before`, `::after`) og pseudo-selektorer (`:hover`, `:first-child`, `:nth-child`, `:not()` osv.) i CSS. 
 
